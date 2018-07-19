@@ -1,0 +1,10 @@
+.main{
+    width: 750px;
+    margin:0 auto 50px;
+}
+.player{
+    border: solid 3px #ccc;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #888;
+    display: flex;
+}

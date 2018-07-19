@@ -1,0 +1,32 @@
+.profiles{
+    width: 200px;
+    background: #ccc;
+    font-size: 0.8em;
+    text-align: center;
+}
+.player-name{
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.profile-entry{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 10px 10px;
+    box-sizing: border-box;
+}
+.profile-entry-left{
+    text-align: left;
+    font-weight: bold;
+}
+.profile-entry-right{
+    text-align: right;
+    flex: 1;
+
+}
+.profile-pic{
+    width:100%
+}
+.team-logo{
+    width:50%
+}
